@@ -1,2 +1,4 @@
 # I-repositorio
- Primeiro repositório github
+ Primeiro repositório github 
+
+ Repositório criado durante uma aula ao vivo!
